@@ -1,0 +1,9 @@
+{
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "${env:ProgramFiles(x86)}/Microsoft SDKs/MPI/Include",
+    "${env:ProgramFiles(x86)}/Microsoft SDKs/MPI/Include/x64",
+    "${workspaceFolder}/.vscode/mpi-sdk/Include",
+    "${workspaceFolder}/.vscode/mpi-sdk/Include/x64"
+  ]
+}
